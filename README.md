@@ -3,8 +3,7 @@
     here I will put all my projects along my daily learning about ARDUINO
     I ask everyone to look and criticize the codes so that I can improve. thank you!
 
-  Fist Project
+  My first project in simulation:
   ---
-  // SIMULATION CODE IN ARDUINO
-  (https://www.tinkercad.com/things/0arnL3sHANk?sharecode=ej2mQpNETtHI5TKdPBVKYWasoYru3Bfe7-6dX67dgl8)
+  🔎 https://www.tinkercad.com/things/0arnL3sHANk?sharecode=ej2mQpNETtHI5TKdPBVKYWasoYru3Bfe7-6dX67dgl8
   
